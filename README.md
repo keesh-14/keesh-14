@@ -32,7 +32,7 @@ I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac
 
 ### Talking about Professional Stuff:
 
-- 🌱 I’m currently a Backend Intern at [HighRadius](https://www.highradius.com/).
+- 🌱 I’m currently a Software Development Intern at [HighRadius](https://www.highradius.com/).
 - 💻 Proficient in Java.
 - 🥅 Solved 250+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/deekshachaudhari/practice/).
 - ⭐ 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Keeshu14).
