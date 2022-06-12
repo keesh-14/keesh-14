@@ -5,7 +5,7 @@
         <img align="left" alt="Deeksha | LinkdeIN" width="22px" src="https://cdn.imgbin.com/7/2/20/imgbin-linkedin-cuUL2VG2VGgyy8qC4LY4LWxvy.jpg" />
         </a>
         <a href="https://inst">
-        <img align="left" alt="Deeksha | Instagram" width="22px" height="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+        <img align="left" alt="Deeksha | Instagram" width="22px" height="22px" src="[http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png](https://www.instagram.com/keeshu_14/)" />
         </a>
         <a href="https://auth.geeksforgeeks.org/user/deekshachaudhari/practice/">
         <img align="left" alt="Deeksha | GeeksForGeeks" width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" />
