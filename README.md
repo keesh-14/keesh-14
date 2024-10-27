@@ -28,7 +28,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
-A Backend Developer at VMware by Broadcom. I love to explore new technologies, generate new ideas and devise feasible solutions to real life problems. 
+Backend Developer at VMware by Broadcom. I love to explore new technologies, generate new ideas and devise feasible solutions to real life problems. 
 
 
 <div align="center">
