@@ -17,7 +17,7 @@
         <a href="https://www.codechef.com/users/keesh">
         <img align="left" alt="Deeksha | CodeChef" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
         </a>
-         <a href="https://leetcode.com/keeshu14/">
+         <a href="https://leetcode.com/u/deeksha-14/">
         <img align="left" alt="Deeksha | LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
         </a>
     </td>
